@@ -2,7 +2,7 @@
 Benjamin L'Huillier (Sejong University, Korea)  
 www.benjissi.com  
 
-This repository contains tutorials and code for **Gaussian Process Regression**, created for the [STAR 2025 Summer School]([https://www.example.com](https://events.iiap.res.in/event/250/)) at the Indian Institute of Astrophysics (IIA), Bengaluru.
+This repository contains tutorials and code for **Gaussian Process Regression**, created for the [STAR 2025 Summer School](https://events.iiap.res.in/event/250/) at the Indian Institute of Astrophysics (IIA), Bengaluru.
 
 ## Contents
 
