@@ -15,7 +15,7 @@ This repository contains tutorials and code for **Gaussian Process Regression**,
 You can find the slides and notebooks here:
 
 - [📑 Lecture Slides (PDF)](https://drive.google.com/file/d/1IQaQUfXMFrHhbff7Gda8Tx5vr35mfDUm/view?usp=sharing)
-- [📓 Handout / Notes (PDF)](Notebooks/GP_solution.ipynb)
+- [📓 Handout / Notes (PDF)](Notebooks/GP_Solution.ipynb)
 
 ## 🚀 Getting Started
 
